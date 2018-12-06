@@ -95,7 +95,7 @@ namespace DemoApplication
 
         private void menuAbout_Execute(object sender, EventArgs e)
         {
-            qxDotNet.UI.Dialog.MessageBox.Show("qxdotnet DemoApplication. Based on qooxdoo 5.0.1");
+            qxDotNet.UI.Dialog.MessageBox.Show("qxdotnet DemoApplication. Based on qooxdoo 5.0.2");
         }
 
         private void toolbtn_Execute(object sender, EventArgs e)
